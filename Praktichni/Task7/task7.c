@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <math.h>
 
+
+
 int main() {
     double x1, y1, r1, x2, y2, r2, d;
     printf("Введи x1, y1, r1, x2, y2, r2: ");

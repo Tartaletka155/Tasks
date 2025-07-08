@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 int min_steps(int x, int y) {
     long long dist = y - x;
     long long k = 1;
